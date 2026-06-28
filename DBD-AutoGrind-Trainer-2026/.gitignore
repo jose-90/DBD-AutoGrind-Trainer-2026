@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+venv/
+.idea/
